@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{0E1FA9C4-8358-4CAB-8503-C8816F59EDF7}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="FHIRDemo.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="FHIRDemo">
+        <MSBuild Projects="FHIRDemo.dproj"/>
+    </Target>
+    <Target Name="FHIRDemo:Clean">
+        <MSBuild Projects="FHIRDemo.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="FHIRDemo:Make">
+        <MSBuild Projects="FHIRDemo.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="FHIRDemo"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="FHIRDemo:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="FHIRDemo:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

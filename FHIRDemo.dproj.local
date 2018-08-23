@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/07/31 17:25:12.000.950,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/02 14:41:36.000.128,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/03 15:11:43.000.158,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/03 15:18:20.000.830,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/03 15:46:44.000.841,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/08 09:50:47.000.028,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/08 16:05:17.000.530,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.html</Transaction>
+    <Transaction>2018/08/08 16:05:17.000.848,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/22 15:48:02.000.199,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/22 15:48:38.000.190,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Joelvis\newdemo\FHIR_Demo.dfm</Transaction>
+    <Transaction>2018/08/22 15:48:38.000.190,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Joelvis\newdemo\FHIR_Demo.pas</Transaction>
+    <Transaction>2018/08/22 15:48:59.000.700,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Joelvis\newdemo\FHIRDemo.dproj</Transaction>
+    <Transaction>2018/08/22 15:49:11.000.127,=C:\Joelvis\fhirserver-master\vcldemo\MainApplicationWindow.pas</Transaction>
+    <Transaction>2018/08/22 15:49:26.000.615,C:\Joelvis\fhirserver-master\vcldemo\MainApplicationWindow.pas=</Transaction>
+    <Transaction>2018/08/22 15:50:08.000.391,C:\Joelvis\newdemo\FHIR_Demo.dfm=C:\Joelvis\newdemo\MainApplicationWindow.dfm</Transaction>
+    <Transaction>2018/08/22 15:50:08.000.391,C:\Joelvis\newdemo\FHIR_Demo.pas=C:\Joelvis\newdemo\MainApplicationWindow.pas</Transaction>
+    <Transaction>2018/08/22 16:05:40.000.951,=C:\Joelvis\newdemo\ProgressDialog.pas</Transaction>
+    <Transaction>2018/08/22 16:05:41.000.838,=C:\Joelvis\newdemo\ServerLoginDialog.pas</Transaction>
+    <Transaction>2018/08/22 16:07:48.000.810,=C:\Joelvis\newdemo\FHIRDemoLogging.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<Ppauldev iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
